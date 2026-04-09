@@ -2,6 +2,8 @@
 
 **USC AI Trust Lab** · Research repository for the Manipulation Index project.
 
+> **[View Interactive Framework](https://ciweissssss.github.io/USC_AI_Trust_Hub_Manipulation/)**
+
 This repository tracks the testing framework, methodology, and experimental results for evaluating manipulative behaviors in large language models (LLMs).
 
 ---
