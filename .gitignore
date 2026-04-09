@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.env
+
+# Archives & backups (not tracked in repo)
+_originals_backup/
+*.zip
+
+# OS / editor
+.vscode/
+.idea/
